@@ -1,5 +1,7 @@
-# data-structures-cheat-sheet
-Collection of useful links to Data Structures and Algorithms Cheat Sheet
+
+# Collection of useful links to Data Structures and Algorithms Cheat Sheet
+
+# Cheat Sheet
 
 ## [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
