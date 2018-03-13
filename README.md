@@ -21,6 +21,8 @@
 
 ## [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/)
 
+## [Notes on Data Structures and Programming Techniques ](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#tailRecursion)
+
 # Code Repos
 
 ## [Data Structures and Algo in Java](https://github.com/phishman3579/java-algorithms-implementation)
